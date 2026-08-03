@@ -9,3 +9,4 @@
 - [ ] Validate reduced-motion accessibility behavior
 - [ ] Smoke test by loading `frontend/index.html` and scrolling through sections
 
+- [ ] Refactor code
